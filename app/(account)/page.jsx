@@ -70,7 +70,7 @@ export default function Home() {
                   <a href="profile.html">
                     {" "}
                     <img
-                      src="assets/images/avatars/avatar-3.jpg"
+                      src="/assets/images/avatars/avatar-3.jpg"
                       alt=""
                       className="w-9 h-9 rounded-full"
                     />{" "}
@@ -169,7 +169,7 @@ export default function Home() {
                 {/* post image */}
                 <div className="relative w-full lg:h-72 h-full sm:px-4">
                   <img
-                    src="assets/images/avatars/avatar-lg-4.jpg"
+                    src="/assets/images/avatars/avatar-lg-4.jpg"
                     alt=""
                     className="sm:rounded-lg w-full h-full object-cover"
                   />
@@ -231,7 +231,7 @@ export default function Home() {
                     <a href="profile.html">
                       {" "}
                       <img
-                        src="assets/images/avatars/avatar-2.jpg"
+                        src="/assets/images/avatars/avatar-2.jpg"
                         alt=""
                         className="w-6 h-6 mt-1 rounded-full"
                       />{" "}
@@ -253,7 +253,7 @@ export default function Home() {
                     <a href="profile.html">
                       {" "}
                       <img
-                        src="assets/images/avatars/avatar-3.jpg"
+                        src="/assets/images/avatars/avatar-3.jpg"
                         alt=""
                         className="w-6 h-6 mt-1 rounded-full"
                       />{" "}
@@ -285,7 +285,7 @@ export default function Home() {
                 {/* add comment */}
                 <div className="sm:px-4 sm:py-3 p-2.5 border-t border-gray-100 flex items-center gap-1 dark:border-slate-700/40">
                   <img
-                    src="assets/images/avatars/avatar-7.jpg"
+                    src="/assets/images/avatars/avatar-7.jpg"
                     alt=""
                     className="w-6 h-6 rounded-full"
                   />
@@ -347,7 +347,7 @@ export default function Home() {
                   <a href="profile.html">
                     {" "}
                     <img
-                      src="assets/images/avatars/avatar-2.jpg"
+                      src="/assets/images/avatars/avatar-2.jpg"
                       alt=""
                       className="w-9 h-9 rounded-full"
                     />{" "}
@@ -463,11 +463,11 @@ export default function Home() {
                       }}
                     >
                       <a
-                        href="assets/images/avatars/avatar-lg-3.jpg"
+                        href="/assets/images/avatars/avatar-lg-3.jpg"
                         data-caption="Caption"
                       >
                         <img
-                          src="assets/images/avatars/avatar-lg-2.jpg"
+                          src="/assets/images/avatars/avatar-lg-2.jpg"
                           className="w-full h-full object-cover inset-0"
                           alt=""
                         />
@@ -478,11 +478,11 @@ export default function Home() {
                       tabIndex={-1}
                     >
                       <a
-                        href="assets/images/avatars/avatar-lg-3.jpg"
+                        href="/assets/images/avatars/avatar-lg-3.jpg"
                         data-caption="Caption"
                       >
                         <img
-                          src="assets/images/avatars/avatar-lg-3.jpg"
+                          src="/assets/images/avatars/avatar-lg-3.jpg"
                           className="w-full h-full object-cover inset-0"
                           alt=""
                         />
@@ -574,7 +574,7 @@ export default function Home() {
                     <a href="profile.html">
                       {" "}
                       <img
-                        src="assets/images/avatars/avatar-2.jpg"
+                        src="/assets/images/avatars/avatar-2.jpg"
                         alt=""
                         className="w-6 h-6 mt-1 rounded-full"
                       />{" "}
@@ -597,7 +597,7 @@ export default function Home() {
                     <a href="profile.html">
                       {" "}
                       <img
-                        src="assets/images/avatars/avatar-3.jpg"
+                        src="/assets/images/avatars/avatar-3.jpg"
                         alt=""
                         className="w-6 h-6 mt-1 rounded-full"
                       />{" "}
@@ -629,7 +629,7 @@ export default function Home() {
                 {/* add comment */}
                 <div className="sm:px-4 sm:py-3 p-2.5 border-t border-gray-100 flex items-center gap-1 dark:border-slate-700/40">
                   <img
-                    src="assets/images/avatars/avatar-7.jpg"
+                    src="/assets/images/avatars/avatar-7.jpg"
                     alt=""
                     className="w-6 h-6 rounded-full"
                   />
@@ -691,7 +691,7 @@ export default function Home() {
                   <a href="profile.html">
                     {" "}
                     <img
-                      src="assets/images/avatars/avatar-5.jpg"
+                      src="/assets/images/avatars/avatar-5.jpg"
                       alt=""
                       className="w-9 h-9 rounded-full"
                     />{" "}
@@ -855,7 +855,7 @@ export default function Home() {
                     <a href="profile.html">
                       {" "}
                       <img
-                        src="assets/images/avatars/avatar-2.jpg"
+                        src="/assets/images/avatars/avatar-2.jpg"
                         alt=""
                         className="w-6 h-6 mt-1 rounded-full"
                       />{" "}
@@ -878,7 +878,7 @@ export default function Home() {
                     <a href="profile.html">
                       {" "}
                       <img
-                        src="assets/images/avatars/avatar-3.jpg"
+                        src="/assets/images/avatars/avatar-3.jpg"
                         alt=""
                         className="w-6 h-6 mt-1 rounded-full"
                       />{" "}
@@ -901,7 +901,7 @@ export default function Home() {
                     <a href="profile.html">
                       {" "}
                       <img
-                        src="assets/images/avatars/avatar-5.jpg"
+                        src="/assets/images/avatars/avatar-5.jpg"
                         alt=""
                         className="w-6 h-6 mt-1 rounded-full"
                       />{" "}
@@ -924,7 +924,7 @@ export default function Home() {
                 {/* add comment */}
                 <div className="sm:px-4 sm:py-3 p-2.5 border-t border-gray-100 flex items-center gap-1 dark:border-slate-700/40">
                   <img
-                    src="assets/images/avatars/avatar-7.jpg"
+                    src="/assets/images/avatars/avatar-7.jpg"
                     alt=""
                     className="w-6 h-6 rounded-full"
                   />
@@ -1008,7 +1008,7 @@ export default function Home() {
                 style={{ position: "fixed", top: 32, width: 370 }}
               >
                 {/* peaple you might know */}
-                <div className="mt-8 bg-white rounded-xl shadow-sm p-5 px-6 border1 dark:bg-dark2">
+                <div className="mt-3 bg-white rounded-xl shadow-sm p-5 px-6 border1 dark:bg-dark2">
                   <div className="flex justify-between text-black dark:text-white">
                     <h3 className="font-bold text-base">
                       {" "}
@@ -1028,7 +1028,7 @@ export default function Home() {
                     <div className="flex items-center gap-3">
                       <a href="profile.html">
                         <img
-                          src="assets/images/avatars/avatar-7.jpg"
+                          src="/assets/images/avatars/avatar-7.jpg"
                           alt=""
                           className="bg-gray-200 rounded-full w-10 h-10"
                         />
@@ -1053,7 +1053,7 @@ export default function Home() {
                     <div className="flex items-center gap-3">
                       <a href="profile.html">
                         <img
-                          src="assets/images/avatars/avatar-5.jpg"
+                          src="/assets/images/avatars/avatar-5.jpg"
                           alt=""
                           className="bg-gray-200 rounded-full w-10 h-10"
                         />
@@ -1078,7 +1078,7 @@ export default function Home() {
                     <div className="flex items-center gap-3">
                       <a href="profile.html">
                         <img
-                          src="assets/images/avatars/avatar-2.jpg"
+                          src="/assets/images/avatars/avatar-2.jpg"
                           alt=""
                           className="bg-gray-200 rounded-full w-10 h-10"
                         />
@@ -1103,7 +1103,7 @@ export default function Home() {
                     <div className="flex items-center gap-3">
                       <a href="profile.html">
                         <img
-                          src="assets/images/avatars/avatar-3.jpg"
+                          src="/assets/images/avatars/avatar-3.jpg"
                           alt=""
                           className="bg-gray-200 rounded-full w-10 h-10"
                         />
@@ -1128,7 +1128,7 @@ export default function Home() {
                     <div className="flex items-center gap-3">
                       <a href="profile.html">
                         <img
-                          src="assets/images/avatars/avatar-4.jpg"
+                          src="/assets/images/avatars/avatar-4.jpg"
                           alt=""
                           className="bg-gray-200 rounded-full w-10 h-10"
                         />
@@ -1181,7 +1181,7 @@ export default function Home() {
                             <div className="relative overflow-hidden rounded-lg">
                               <div className="relative w-full md:h-40 h-full">
                                 <img
-                                  src="assets/images/product/product-3.jpg"
+                                  src="/assets/images/product/product-3.jpg"
                                   alt=""
                                   className="object-cover w-full h-full inset-0"
                                 />
@@ -1199,7 +1199,7 @@ export default function Home() {
                             <div className="relative overflow-hidden rounded-lg">
                               <div className="relative w-full md:h-40 h-full">
                                 <img
-                                  src="assets/images/product/product-1.jpg"
+                                  src="/assets/images/product/product-1.jpg"
                                   alt=""
                                   className="object-cover w-full h-full inset-0"
                                 />
@@ -1217,7 +1217,7 @@ export default function Home() {
                             <div className="relative overflow-hidden rounded-lg">
                               <div className="relative w-full md:h-40 h-full">
                                 <img
-                                  src="assets/images/product/product-5.jpg"
+                                  src="/assets/images/product/product-5.jpg"
                                   alt=""
                                   className="object-cover w-full h-full inset-0"
                                 />
@@ -1278,7 +1278,7 @@ export default function Home() {
                     <a href="profile.html">
                       <div className="w-10 h-10 relative">
                         <img
-                          src="assets/images/avatars/avatar-2.jpg"
+                          src="/assets/images/avatars/avatar-2.jpg"
                           alt=""
                           className="w-full h-full absolute inset-0 rounded-full"
                         />
@@ -1288,7 +1288,7 @@ export default function Home() {
                     <a href="profile.html">
                       <div className="w-10 h-10 relative">
                         <img
-                          src="assets/images/avatars/avatar-3.jpg"
+                          src="/assets/images/avatars/avatar-3.jpg"
                           alt=""
                           className="w-full h-full absolute inset-0 rounded-full"
                         />
@@ -1298,7 +1298,7 @@ export default function Home() {
                     <a href="profile.html">
                       <div className="w-10 h-10 relative">
                         <img
-                          src="assets/images/avatars/avatar-4.jpg"
+                          src="/assets/images/avatars/avatar-4.jpg"
                           alt=""
                           className="w-full h-full absolute inset-0 rounded-full"
                         />
@@ -1308,7 +1308,7 @@ export default function Home() {
                     <a href="profile.html">
                       <div className="w-10 h-10 relative">
                         <img
-                          src="assets/images/avatars/avatar-5.jpg"
+                          src="/assets/images/avatars/avatar-5.jpg"
                           alt=""
                           className="w-full h-full absolute inset-0 rounded-full"
                         />
@@ -1318,7 +1318,7 @@ export default function Home() {
                     <a href="profile.html">
                       <div className="w-10 h-10 relative">
                         <img
-                          src="assets/images/avatars/avatar-6.jpg"
+                          src="/assets/images/avatars/avatar-6.jpg"
                           alt=""
                           className="w-full h-full absolute inset-0 rounded-full"
                         />
@@ -1328,7 +1328,7 @@ export default function Home() {
                     <a href="profile.html">
                       <div className="w-10 h-10 relative">
                         <img
-                          src="assets/images/avatars/avatar-7.jpg"
+                          src="/assets/images/avatars/avatar-7.jpg"
                           alt=""
                           className="w-full h-full absolute inset-0 rounded-full"
                         />
@@ -1359,7 +1359,7 @@ export default function Home() {
                             <a href="profile.html">
                               <div className="relative w-16 h-16 mx-auto mt-2">
                                 <img
-                                  src="assets/images/avatars/avatar-5.jpg"
+                                  src="/assets/images/avatars/avatar-5.jpg"
                                   alt=""
                                   className="h-full object-cover rounded-full shadow w-full"
                                 />
@@ -1392,7 +1392,7 @@ export default function Home() {
                             <a href="profile.html">
                               <div className="relative w-16 h-16 mx-auto mt-2">
                                 <img
-                                  src="assets/images/avatars/avatar-4.jpg"
+                                  src="/assets/images/avatars/avatar-4.jpg"
                                   alt=""
                                   className="h-full object-cover rounded-full shadow w-full"
                                 />
@@ -1425,7 +1425,7 @@ export default function Home() {
                             <a href="profile.html">
                               <div className="relative w-16 h-16 mx-auto mt-2">
                                 <img
-                                  src="assets/images/avatars/avatar-4.jpg"
+                                  src="/assets/images/avatars/avatar-4.jpg"
                                   alt=""
                                   className="h-full object-cover rounded-full shadow w-full"
                                 />

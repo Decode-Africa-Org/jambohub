@@ -1,5 +1,5 @@
-import React from "react";
-
+"use client";
+import Link from "next/link";
 function Sidebar() {
   return (
     <>
@@ -13,18 +13,18 @@ function Sidebar() {
         >
           {/* logo */}
           <div className="flex h-20 px-2 max-md:fixed max-md:top-0 max-md:w-full max-md:bg-white/80 max-md:left-0 max-md:px-4 max-md:h-14 max-md:shadow-sm max-md:dark:bg-slate-900/80 backdrop-blur-xl">
-            <a href="home.html" id="logo" className="flex items-center gap-3">
+            <Link href="/" id="logo" className="flex items-center gap-3">
               {/* logo icon */}
               <img
                 id="logo__icon"
-                src="assets/images/profile-pic.jpg"
+                src="/assets/images/profile-pic.jpg"
                 alt=""
                 className="md:w-8 rounded-full hidden text-2xl max-xl:!block max-md:!hidden shrink-0 uk-animation-scale-up"
               />
               {/* text logo */}
               <img
                 id="logo__text"
-                src="assets/images/profile-pic.jpg"
+                src="/assets/images/profile-pic.jpg"
                 alt=""
                 className="w-full rounded-full h-16 ml-1 max-xl:hidden max-md:block dark:!hidden"
               />
@@ -34,12 +34,12 @@ function Sidebar() {
                 alt=""
                 className="w-full h-16 rounded-full ml-1 !hidden max-xl:!hidden max-md:block dark:max-md:!block dark:!block"
               />
-            </a>
+            </Link>
           </div>
           {/* nav */}
           <nav className="flex-1 max-md:flex max-md:justify-around md:space-y-2">
             {/* Home */}
-            <a href="home.html" className="active">
+            <Link href="/" className="active">
               <svg
                 id="icon__outline"
                 xmlns="http://www.w3.org/2000/svg"
@@ -68,7 +68,7 @@ function Sidebar() {
                 />
               </svg>
               <span className="max-xl:hidden"> Home </span>
-            </a>
+            </Link>
             {/* Search */}
             <a href="#!" aria-haspopup="true" aria-expanded="false">
               <svg

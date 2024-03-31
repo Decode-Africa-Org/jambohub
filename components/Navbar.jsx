@@ -5,11 +5,11 @@ const Navbar = () => {
     <div className="sticky top-0 z-10 bg-white shadow-md">
       <div className="flex p-2 justify-between items-center border-b border-gray-300 flex-wrap">
         <div className="flex items-center">
-          <img
+          {/* <img
             src="https://tailwindflex.com/public/images/logo.svg"
             className="w-10 h-10"
-          />
-          <h2 className="font-bold text-2xl text-purple-600">TailwildFlex</h2>
+          /> */}
+          <h2 className="font-bold text-2xl text-purple-600">Decode Africa</h2>
         </div>
         <div className="relative flex items-center hidden md:inline-flex">
           <input
@@ -33,29 +33,7 @@ const Navbar = () => {
           </svg>
         </div>
         <div className="flex items-center gap-2">
-          <button className="border px-2 py-1 rounded-md">Center</button>
-          <button className="border px-2 py-1 rounded-md">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              className="h-6 w-6 hover:text-gray-500 text-gray-700"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-              />
-            </svg>
-          </button>
-          <button className="border px-2 py-1 rounded-md text-gray-500">
-            Tailwind V3
-          </button>
-          <button className="border px-2 py-1 rounded-md bg-purple-600 text-white hover:bg-purple-700">
-            Save
-          </button>
+          <span>Home</span>
         </div>
       </div>
     </div>

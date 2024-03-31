@@ -12,7 +12,7 @@ export default function Home() {
             id="js-oversized"
           >
             {/* feed story */}
-            <div className="md:max-w-[510px] mx-auto flex-1 xl:space-y-6 space-y-3">
+            <div className="md:max-w-[510px] mx-auto flex-1 xl:space-y-6 space-y-3 newsfeed">
               {/* add story */}
               <div className="bg-white rounded-xl shadow-sm p-4 space-y-4 text-sm font-medium border1 dark:bg-dark2">
                 <div className="flex items-center gap-3">

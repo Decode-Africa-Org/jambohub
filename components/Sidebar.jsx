@@ -5,7 +5,7 @@ function Sidebar() {
     <>
       <div
         id="sidebar"
-        className="rounded-lg fixed top-15 left-0 z-40 max-md:top-auto max-md:bottom-0"
+        className="rounded-lg fixed top-16 left-0 z-40 max-md:top-auto max-md:bottom-0"
       >
         <div
           id="sidebar__inner"

@@ -7549,3 +7549,7 @@ input:checked + .switch-button {
 .peer:checked ~ .peer-checked\:\[\&_\.active\]\:block .active {
   display: block;
 }
+
+.newsfeed {
+  margin-top: -32px !important;
+}
